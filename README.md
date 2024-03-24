@@ -20,6 +20,9 @@ This repository contains the source code for the Mirlex Engineering Works Ltd we
 ## Installation
 1. Clone the repository to your local machine:
 
+```git clone https://github.com/babjonii/mirlex.git```
+
+
 2. Navigate to the project directory:
 
 3. Open the `index.html` file in your web browser to view the website locally.
@@ -39,3 +42,6 @@ Contributions to the project are welcome! If you'd like to propose new features,
 ## Acknowledgements
 - The project was inspired by the need for an online platform to showcase Mirlex Engineering Works Ltd's services and projects.
 - Thanks to all contributors who have helped improve and refine the website.
+
+## Visit the Website
+Explore the live website at [mirlex.co.tz](https://mirlex.co.tz).
